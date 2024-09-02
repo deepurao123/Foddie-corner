@@ -1,0 +1,180 @@
+@media (max-width:992px) {
+    .navbar-menu .navbar-item {
+        max-width: 100%;
+        padding-right: 20px;
+    }
+
+    .navbar-menu .navbar-item a {
+        font-size: 25px;
+    }
+
+    .sectioan-img {
+        width: 350px;
+        height: 350px;
+    }
+
+    .sectioan-img {
+        width: 370px;
+        height: 370px;
+
+    }
+
+    .sectioan-img3 {
+        width: 370px;
+        height: 370px;
+        padding-top: 30px;
+    }
+
+    .sectioan2-box1,
+    .sectioan2-box2,
+    .sectioan2-box3 {
+        width: 370px;
+        height: 370px;
+        margin: 10px;
+    }
+
+    .card1,
+    .card2,
+    .card3 {
+        width: 370px;
+        height: 480px;
+        margin: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-menu {
+        display: none;
+        flex-direction: column;
+        max-width: 100%;
+        gap: 0;
+        margin-top: 0px;
+        padding-top: 0;
+
+    }
+
+    .navbar-toggler {
+        display: block;
+        color: white;
+        position: absolute;
+        top: 56px;
+        right: 14px;
+    }
+
+    .delicious-pasta {
+        width: 100%;
+        padding: 40px 0px;
+    }
+
+    .pasta {
+        width: 100%;
+        position: relative;
+    }
+
+    .navbar-menu {
+        align-items: center;
+    }
+
+    .navbar-item a {
+        padding: 10px 40px;
+    }
+
+    .input-btn {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .container8 input {
+        padding: 20px 70px 20px 30px;
+    }
+
+    .delicious-pasta {
+        text-align: center;
+    }
+
+    .sectioan3-box1,
+    .sectioan3-box2 {
+        flex-direction: column;
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .footer-box1 {
+        width: 100%;
+        padding-left: 0px;
+    }
+
+    .footer-box2 {
+        width: 100%;
+        flex-direction: column;
+    }
+
+
+}
+
+@media (max-width: 576px) {
+    .input-btn {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .container8 input {
+        padding: 20px 40px 20px 30px;
+    }
+
+    .delicious-pasta {
+        text-align: center;
+    }
+
+    .font-s {
+        font-size: 20px;
+    }
+
+    .sectioan3-box1,
+    .sectioan3-box2 {
+        flex-direction: column;
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .display-6 {
+        font-size: 1.5rem;
+    }
+
+    .pt-5 {
+        padding-top: 0px;
+    }
+
+    .display-1 {
+        font-size: 4rem;
+
+    }
+
+    .navbar-menu {
+        align-items: center;
+    }
+
+    .navbar-item a {
+        padding: 10px 40px;
+    }
+
+    .footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .footer-box1 {
+        width: 100%;
+        padding-left: 0px;
+    }
+
+    .footer-box2 {
+        width: 100%;
+        flex-direction: column;
+    }
+}
